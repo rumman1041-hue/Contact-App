@@ -1,0 +1,14 @@
+
+.Navigation{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.home{
+  display: flex;
+  align-items: center;
+  gap: 80px;
+  margin-right: 100px;
+  font-weight: 500;
+}
